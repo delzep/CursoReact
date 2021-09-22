@@ -1,0 +1,9 @@
+footer {
+    background-color: #282c34;
+    padding: 20px 0;
+    color: #fff;
+}
+
+footer .author {
+    color: #61dafb;
+}

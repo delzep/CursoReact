@@ -1,9 +1,12 @@
-import React from "react"
+import React from "react";
+import './index.css';
 
 function Footer() {
     return (
-        <footer>This is the footer</footer>
-    )
+        <footer>
+            My first Reactjs project by <span className="author">HRios</span>
+        </footer>
+    );
 }
 
-export default Footer
+export default Footer;
