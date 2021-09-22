@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "name": "Mr. First",
+        "imgUrl": "https://images-na.ssl-images-amazon.com/images/I/410bru8JXCL._SX300_.jpg",
+        "phone": "+57 325 654321",
+        "email": "first@site.com"
+    },
+    {
+        "id": 2,
+        "name": "Mr. Second", 
+        "imgUrl": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.UxRMdncPXSsWj3WZlutmmwAAAA%26pid%3DApi&f=1",
+        "phone": "+57 300 321987",
+        "email": "second@site.com"
+    },
+    {
+        "id": 3,
+        "name": "Mr. Third", 
+        "imgUrl": "https://i.etsystatic.com/21697510/c/750/596/0/304/il/f3aa5b/2541217872/il_340x270.2541217872_jqvv.jpg",
+        "phone": "+57 315 653254",
+        "email": "third@site.com"
+    }
+]
